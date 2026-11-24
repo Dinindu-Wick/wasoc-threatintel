@@ -21,7 +21,7 @@
             "kind": "Scheduled",
             "apiVersion": "2023-12-01-preview",
             "properties": {
-                "displayName": "[WASOC-Intelligence] Observed OfficeActivity from known malicious IP address related to phishing",
+                "displayName": "[[WASOC-Intelligence] Observed OfficeActivity from known malicious IP address related to phishing",
                 "description": "The rules maps potential threat actor activities in OfficeActivity from known malicious IP address related to phishing campaign.",
                 "severity": "High",
                 "enabled": true,
